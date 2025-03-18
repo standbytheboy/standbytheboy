@@ -4,8 +4,12 @@
 - 🌱 Learning Front-End Skills
 - 📫 Contact: moraislcs05@gmail.com
 
-![Standbytheboy GitHub stats](https://github-readme-stats.vercel.app/api?username=standbytheboy&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=standbytheboy&layout=compact&theme=tokyonight)
+<div style="display: flex; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=standbytheboy&show_icons=true&theme=tokyonight" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=standbytheboy&layout=compact&theme=tokyonight" height="200">
+</div>
+
+
 
 ### Frameworks/Languages I've Used:
 
