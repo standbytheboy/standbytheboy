@@ -1,7 +1,7 @@
 ## Hi, alright? I'm Lucas Morais 👋
 
 - 🔭 I'm currently studying computer technician for the internet
-- 🌱 Learning Front-End Skills
+- 🌱 Learning Back-End Skills
 - 📫 Contact: moraislcs05@gmail.com
 
 <div style="display: flex; gap: 10px;">
