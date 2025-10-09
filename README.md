@@ -3,7 +3,7 @@
 - 🔭 I'm currently working as a vocational training instructor at SENAI SP
 - 🌱 Learning Back-End Skills, where I am delving deeper into creating robust APIs and managing databases efficiently
 - 📫 Contact: moraislcs05@gmail.com
-- 📑 Portfolio: [Clique aqui para ver](https://standbytheboy-portfolio.vercel.app/)
+- 📑 Portfolio: [Click here to access!](https://standbytheboy-portfolio.vercel.app/)
 
 <br>
 
