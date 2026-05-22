@@ -6,12 +6,6 @@
 
 <br>
 
-
-<div style="display: flex; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=standbytheboy&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=standbytheboy&layout=compact&theme=tokyonight" height="170">
-</div>
-
 ### Frameworks/Languages I've Used:
 
   <h4><b>Front-End</b></h4>
